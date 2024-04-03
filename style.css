@@ -1,0 +1,33 @@
+body {
+    background-color: #F5F5F5;
+    font-family: Arial, sans-serif;
+}
+
+
+#siteLogo {
+    height: 100px; /* Ajusta la altura según sea necesario */
+    width: auto; /* Mantiene la proporción del logo */
+    margin-right: 20px; /* Espacio entre el logo y el título, si es necesario */
+}
+#searchInput {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    background-color: #f0f0f0;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+li strong {
+    color: #007bff;
+}
